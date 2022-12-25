@@ -1,0 +1,9 @@
+#enlarged-img-container {
+  height: fit-content;
+}
+#enlarged-img {
+  display: block;
+  max-width: 77vw;
+  width: 100%;
+  height: 100%;
+}
